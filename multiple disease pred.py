@@ -1,9 +1,3 @@
-"""
-Created on Sun Sep 24 12:57:24 2023
-
-@author: Chege
-"""
-
 import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu
